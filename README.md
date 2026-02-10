@@ -176,3 +176,8 @@ model_list:
 
 ## Security Note
 IP addresses, hostnames, and port numbers are intentionally **redacted**. Replace placeholders only in secured internal documents.
+
+
+## License
+- Code and scripts: MIT License (see `LICENSE`)
+- Documentation and diagrams: CC BY 4.0 (see `LICENSE-DOCS`)
