@@ -7,7 +7,7 @@
 ![macOS](https://img.shields.io/badge/macOS-Mac%20Studio-000000?logo=apple&logoColor=white)
 ![On-Prem](https://img.shields.io/badge/Deployment-On--Premise-2F4F4F)
 
-This repository documents an **on‑prem LLM platform** built around a lab Mac Studio using **Ollama + LiteLLM Proxy**. It provides a secure, OpenAI‑compatible API for both local models and closed providers, with centralized admin control over models and storage. The README is written as a job‑hunting portfolio, focusing on design intent, operational rules, and usage.
+This repository documents an **on‑prem LLM platform** built around a lab Mac Studio using **Ollama + LiteLLM Proxy**. It provides a secure, OpenAI‑compatible API for both local models and closed providers, with centralized admin control over models and storage. 
 
 ## Overview
 - **Goal**: Enable lab members to use local LLMs and closed models (OpenAI/Anthropic/Gemini) via a single API
